@@ -1,0 +1,11 @@
+{
+  "name": "weather-backend",
+  "version": "1.0.0",
+  "description": "A simple NodeJs backend for my weather app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Christie Hill",
+  "license": "ISC"
+}
